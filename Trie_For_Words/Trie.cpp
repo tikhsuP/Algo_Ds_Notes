@@ -144,11 +144,9 @@ int main()
 }
 
 /* Output
-
 aman Found
 akshit Found
 akash Found
 swati Not Present
 aman Not Present
-
 */
